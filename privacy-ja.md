@@ -1,5 +1,5 @@
 ---
-title: Motune プライバシーポリシー
+title: ArmSound プライバシーポリシー
 ---
 
 
@@ -7,7 +7,7 @@ title: Motune プライバシーポリシー
 
 ## まとめ
 
-**Motune は、利用者に関する情報を一切集めません。**
+**ArmSound は、利用者に関する情報を一切集めません。**
 
 アプリは、腕の動きの判定・記録・再生のために**一切の通信を行いません。**
 腕の動きも、鳴らした記録も、お使いの Apple Watch と iPhone の中だけにあり、
@@ -86,4 +86,4 @@ Apple による支払いの取り扱いについては、Apple のプライバ�
 
 不明な点は、下記までご連絡ください。
 
-- GitHub Issues: https://github.com/888man/motune-support/issues
+- GitHub Issues: https://github.com/888man/armsound-support/issues

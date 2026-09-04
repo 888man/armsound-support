@@ -1,5 +1,5 @@
 ---
-title: Motune Privacy Policy
+title: ArmSound Privacy Policy
 ---
 
 
@@ -7,7 +7,7 @@ Last updated: 23 August 2026
 
 ## Summary
 
-**Motune collects nothing about you.**
+**ArmSound collects nothing about you.**
 
 The app makes **no network requests** to detect, record, or play your motions.
 Your arm motions and your history stay on
@@ -85,4 +85,4 @@ If this policy changes, the date at the top of this page will be updated.
 
 ## Contact
 
-- GitHub Issues: https://github.com/888man/motune-support/issues
+- GitHub Issues: https://github.com/888man/armsound-support/issues

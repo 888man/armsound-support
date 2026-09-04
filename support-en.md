@@ -1,5 +1,5 @@
 ---
-title: Motune Support
+title: ArmSound Support
 ---
 
 
@@ -7,7 +7,7 @@ An Apple Watch app that plays a sound when you move your arm.
 
 ## Contact
 
-- GitHub Issues: https://github.com/888man/motune-support/issues
+- GitHub Issues: https://github.com/888man/armsound-support/issues
 
 Please send bugs, requests and questions there.
 

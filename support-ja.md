@@ -1,5 +1,5 @@
 ---
-title: Motune サポート
+title: ArmSound サポート
 ---
 
 
@@ -7,7 +7,7 @@ title: Motune サポート
 
 ## 連絡先
 
-- GitHub Issues: https://github.com/888man/motune-support/issues
+- GitHub Issues: https://github.com/888man/armsound-support/issues
 
 不具合・要望・使い方の質問は、上記へお寄せください。日本語で構いません。
 
